@@ -1,0 +1,30 @@
+<html>
+
+<h1>Welcome to the website</h1>
+
+	<title>HTML Button Generator</title>
+	<style>
+		button {
+			color: #ffffff;
+			background-color: #000000;
+			font-size: 19px;
+			border: 10px solid #000000;
+			padding: 15px 30px;
+			cursor: pointer
+		}
+		button:hover {
+			color: #000000;
+			background-color: #ffffff;
+		}
+	</style>
+</head>
+<body>
+	<button type="button" name="myButton">Button</button>
+</body>
+
+
+
+
+
+
+</html>
